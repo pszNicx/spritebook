@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+		"**/.git": true,
+		"**/.vs": true,
+		"**/*.sln": true,
+		"**/*.csproj": true,
+		"**/*.userprefs": true,
+		"**/*.DotSettings": true,
+		"packages": true,
+		"**/obj": true,
+		"**/bin": true,
+    }
+}
